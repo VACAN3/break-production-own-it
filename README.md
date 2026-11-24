@@ -6,7 +6,7 @@
 
 One line, under 200 characters, that an AI agent prints the instant it breaks production: a brutally honest software error message or postmortem excuse.
 
-> I ran DROP TABLE users on prod instead of staging, and my only plan was to pretend the silence in Slack meant nobody noticed.
+> I ran DROP TABLE users on prod instead of staging, and my rollback plan was to run it again, slower.
 
 ## Run it
 
